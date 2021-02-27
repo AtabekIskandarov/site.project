@@ -1,0 +1,173 @@
+ * {
+     font-family: calibri;
+     margin-left: 15px;
+     margin-right: 15px;
+ }
+
+
+menu {
+    /* меню */
+    font-size: 18px;
+    color: #828282;
+    padding-top: 15px;
+    word-spacing: 100px;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(244, 250, 249);
+    display: flex;
+}
+.text{
+    /* Надпись ниже меню  */
+    font-size: 47.3392px;
+    color: #070707;
+    padding-left: 42px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.text1 {
+    /* текст по середине меню  */
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    margin-left: 250px;
+    margin-top: 50px;
+    
+}
+
+.vert {
+    /* вертикальный текст  */
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    text-align: right;
+    margin-left: 290px;
+}
+
+.border{
+    /* border under menu  */
+    font-size: 10px;
+    border: 1px solid #828282;
+}
+
+
+
+.section {
+    /* секция about  */
+    /* height: 506px; */
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.text2 {
+    /* текст about me  */
+    font-size: 20px;
+    color: #070707;
+    background: #F6F6F6;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+.description {
+    /* тексты внутри секции about me(description) */
+    font-size: 18px;
+    line-height: 22px;
+} 
+
+.skills {
+    /* сеция Skills */
+    font-size: 34px;
+    color: #070707;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    
+}
+
+.skills p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sk {
+    word-spacing: 85px;
+    padding-bottom: 10px;
+}
+
+.portfolio {
+    /* текст портфолио  */
+    font-size: 34px;
+    color: #070707;
+    text-align: center;
+    background-color: #F6F6F6;
+}
+
+.text4 {
+    /* тексты внутри портфолио */
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.contacts {
+    /* текст контакты  */
+    font-size: 20px;
+    color: #070707;
+    background: rgb(253, 253, 253);
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.button {
+    /* кнопка в секции контакты  */
+    text-align: center;
+    border-radius: 10px;
+    background:  rgb(253, 253, 253);
+    padding-bottom: 30px;
+    
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+#icon {
+    text-align: center;
+    background:  rgb(253, 253, 253);
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+
+footer {
+    /* текст в подвале */
+font-size: 19px;
+color: #828282;
+text-align: center;
+padding-bottom: 30px;
+/* background: black; */
+
+
+}
+
+#icon:hover {
+    background-color: rgb(203, 216, 216);
+    transition: 10s;
+}
+ 
+
+
+
+
